@@ -1,0 +1,7 @@
+ First Name : Ajay
+ Last Name : Sharma
+ Department : Account
+ Email : ajaysharma@account.company.com
+ Alternate Email :null
+ Password : laezl@?X
+ Mailbox Capacity : 100
