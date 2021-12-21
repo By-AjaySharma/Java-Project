@@ -28,6 +28,12 @@ able to see the user detail and able to post instruction that user able to see. 
 <h2>Admin Panel Page</h2>
 <img src="web%20image/adminPanel.png">
 <br>
+<h2>All User List Page</h2>
+<img src="web%20image/userListPage.png">
+<br>
+<h2>All Question List Page</h2>
+<img src="web%20image/questionListPage.png">
+<br>
 
 
 
