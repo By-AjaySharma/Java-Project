@@ -8,4 +8,4 @@ able to see the user detail and able to post instruction that user able to see. 
 
 
 <h2>Index Page</h2>
-
+<img src="web%20image/index1.png">
