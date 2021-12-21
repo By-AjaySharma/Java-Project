@@ -13,6 +13,9 @@ able to see the user detail and able to post instruction that user able to see. 
 <h2>User Login Page</h2>
 <img src="web%20image/userLogin.png">
 <br>
+<h2>User Signup Page</h2>
+<img src="web%20image/userSignup.png">
+<br>
 <h2>User Panel Page</h2>
 <img src="web%20image/userPanel.png">
 <br>
@@ -21,6 +24,9 @@ able to see the user detail and able to post instruction that user able to see. 
 <br>
 <h2>Instant Result Page</h2>
 <img src="web%20image/resultPage.png">
+<br>
+<h2>User Successfully Logout Page</h2>
+<img src="web%20image/userLogout.png">
 <br>
 <h2>Admin Login Page</h2>
 <img src="web%20image/adminLogin.png">
@@ -34,6 +40,17 @@ able to see the user detail and able to post instruction that user able to see. 
 <h2>All Question List Page</h2>
 <img src="web%20image/questionListPage.png">
 <br>
-
+<h2>Add Question Page</h2>
+<img src="web%20image/AddQuestionPage.png">
+<br>
+<h2>All Instruction List Page</h2>
+<img src="web%20image/instructionListPage.png">
+<br>
+<h2>Add Instruction Page</h2>
+<img src="web%20image/addInstructionPage.png">
+<br>
+<h2>Admin Successfully Logout Page</h2>
+<img src="web%20image/successLogout.png">
+<br>
 
 
