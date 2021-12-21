@@ -25,9 +25,7 @@ able to see the user detail and able to post instruction that user able to see. 
 <h2>Instant Result Page</h2>
 <img src="web%20image/resultPage.png">
 <br>
-<h2>User Successfully Logout Page</h2>
-<img src="web%20image/userLogout.png">
-<br>
+
 <h2>Admin Login Page</h2>
 <img src="web%20image/adminLogin.png">
 <br>
@@ -49,8 +47,6 @@ able to see the user detail and able to post instruction that user able to see. 
 <h2>Add Instruction Page</h2>
 <img src="web%20image/addInstructionPage.png">
 <br>
-<h2>Admin Successfully Logout Page</h2>
-<img src="web%20image/successLogout.png">
-<br>
+
 
 
