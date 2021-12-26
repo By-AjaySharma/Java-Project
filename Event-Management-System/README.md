@@ -31,6 +31,9 @@ event and see the student detail that participate in event.<h3></P>
   <h2>Admin Panel Page</h2>
   <img src="web-image/adminPanal.png">
   <br><br>
-  <h2>Admin Panel Page</h2>
-  <img src="web-image/adminPanal.png">
+  <h2>Add Event Page</h2>
+  <img src="web-image/addEvent.png">
+  <br><br>
+  <h2>View Transaction Page</h2>
+  <img src="web-image/trancation.png">
   
